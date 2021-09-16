@@ -26,5 +26,7 @@ void main(){
   Second s=Second();
   s.add();
   
+   Second s=Second();
+  s.add();
   
 }
